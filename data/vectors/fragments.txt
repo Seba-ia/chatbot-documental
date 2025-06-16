@@ -1,0 +1,1467 @@
+© The Author(s) 2023, corrected publication 2024. Open Access  This article is licensed under a Creative Commons Attribution 4.0 Interna-
+---
+tional License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appro-
+---
+priate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made.
+---
+The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in
+---
+a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by
+---
+statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of
+---
+this licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+https://doi.org/10.1186/s41239-023-00426-1
+---
+Role of AI chatbots in education: systematic
+---
+Lasha Labadze1*   , Maya Grigolia2    and Lela Machaidze3
+---
+AI chatbots shook the world not long ago with their potential to revolutionize edu-
+---
+cation systems in a myriad of ways. AI chatbots can provide immediate support
+---
+by answering questions, offering explanations, and providing additional resources.
+---
+Chatbots can also act as virtual teaching assistants, supporting educators through vari-
+---
+ous means. In this paper, we try to understand the full benefits of AI chatbots in edu-
+---
+cation, their opportunities, challenges, potential limitations, concerns, and prospects
+---
+of using AI chatbots in educational settings. We conducted an extensive search
+---
+across various academic databases, and after applying specific predefined criteria, we
+---
+selected a final set of 67 relevant studies for review. The research findings emphasize
+---
+the numerous benefits of integrating AI chatbots in education, as seen from both stu-
+---
+dents’ and educators’ perspectives. We found that students primarily gain from AI-
+---
+powered chatbots in three key areas: homework and study assistance, a personalized
+---
+learning experience, and the development of various skills. For educators, the main
+---
+advantages are the time-saving assistance and improved pedagogy. However, our
+---
+research also emphasizes significant challenges and critical factors that educators need
+---
+to handle diligently. These include concerns related to AI applications such as reliability,
+---
+Keywords:  Systematic literature review, Artificial intelligence, AI chatbots, Chatbots in
+---
+The traditional education system faces several issues, including overcrowded classrooms,
+---
+a lack of personalized attention for students, varying learning paces and styles, and the
+---
+struggle to keep up with the fast-paced evolution of technology and information. As the
+---
+educational landscape continues to evolve, the rise of AI-powered chatbots emerges as a
+---
+promising solution to effectively address some of these issues. Some educational institu-
+---
+tions are increasingly turning to AI-powered chatbots, recognizing their relevance, while
+---
+others are more cautious and do not rush to adopt them in modern educational settings.
+---
+Consequently, a substantial body of academic literature is dedicated to investigating the
+---
+role of AI chatbots in education, their potential benefits, and threats.
+---
+AI-powered chatbots are designed to mimic human conversation using text or voice
+---
+interaction, providing information in a conversational manner. Chatbots’ history dates
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+back to the 1960s and over the decades chatbots have evolved significantly, driven by
+---
+advancements in technology and the growing demand for automated communication
+---
+systems. Created by Joseph Weizenbaum at MIT in 1966, ELIZA was one of the earli-
+---
+est chatbot programs (Weizenbaum, 1966). ELIZA could mimic human-like responses
+---
+by reflecting user inputs as questions. Another early example of a chatbot was PARRY,
+---
+implemented in 1972 by psychiatrist Kenneth Colby at Stanford University (Colby,
+---
+1981). PARRY was a chatbot designed to simulate a paranoid patient with schizophre-
+---
+nia. It engaged in text-based conversations and demonstrated the ability to exhibit delu-
+---
+sional behavior, offering insights into natural language processing and AI. Developed by
+---
+Richard Wallace in 1995, ALICE (Artificial Linguistic Internet Computer Entity) was an
+---
+early example of a chatbot using natural language processing techniques that won the
+---
+Loebner Prize Turing Test in 2000–2001 (Wallace, 1995), which challenged chatbots to
+---
+convincingly simulate human-like conversation. Later in 2001 ActiveBuddy, Inc. devel-
+---
+oped the chatbot SmarterChild that operated on instant messaging platforms such as
+---
+AOL Instant Messenger and MSN Messenger (Hoffer et al., 2001). SmarterChild was a
+---
+chatbot that could carry on conversations with users about a variety of topics. It was
+---
+also able to learn from its interactions with users, which made it more and more sophis-
+---
+ticated over time. In 2011 Apple introduced Siri as a voice-activated personal assistant
+---
+for its iPhone (Aron, 2011). Although not strictly a chatbot, Siri showcased the potential
+---
+of conversational AI by understanding and responding to voice commands, performing
+---
+tasks, and providing information. In the same year, IBM’s Watson gained fame by defeat-
+---
+ing human champions in the quiz show Jeopardy (Lally & Fodor, 2011). It demonstrated
+---
+the power of natural language processing and machine learning algorithms in under-
+---
+standing complex questions and providing accurate answers. More recently, in 2016,
+---
+Facebook opened its Messenger platform for chatbot development, allowing businesses
+---
+to create AI-powered conversational agents to interact with users. This led to an explo-
+---
+sion of chatbots on the platform, enabling tasks like customer support, news delivery,
+---
+and e-commerce (Holotescu, 2016). Google Duplex, introduced in May 2018, was able
+---
+to make phone calls and carry out conversations on behalf of users. It showcased the
+---
+potential of chatbots to handle complex, real-time interactions in a human-like manner
+---
+(Dinh & Thai, 2018; Kietzmann et al., 2018).
+---
+More recently, more sophisticated and capable chatbots amazed the world with their
+---
+abilities. Among them, ChatGPT and Google Bard are among the most profound AI-
+---
+powered chatbots. ChatGPT is an artificial intelligence chatbot developed by OpenAI.
+---
+It was first announced in November 2022 and is available to the general public. Chat-
+---
+GPT’s rival Google Bard chatbot, developed by Google AI, was first announced in May
+---
+2023. Both Google Bard and ChatGPT are sizable language model chatbots that undergo
+---
+training on extensive datasets of text and code. They possess the ability to generate text,
+---
+create diverse creative content, and provide informative answers to questions, although
+---
+their accuracy may not always be perfect. The key difference is that Google Bard is
+---
+trained on a dataset that includes text from the internet, while ChatGPT is trained on a
+---
+dataset that includes text from books and articles. This means that Google Bard is more
+---
+likely to be up-to-date on current events, while ChatGPT is more likely to be accurate
+---
+in its responses to factual questions (AlZubi et al., 2022; Rahaman et al., 2023; Rudolph
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+Chatbots are now used across various sectors, including education. Most of the
+---
+latest intelligent AI chatbots are web-based platforms that adapt to the behaviors
+---
+of both instructors and learners, enhancing the educational experience (Chassignol
+---
+et al., 2018; Devedzic, 2004; Kahraman et al., 2010; Peredo et al., 2011). AI chatbots
+---
+have been applied in both instruction and learning within the education sector. Chat-
+---
+bots specialize in personalized tutoring, homework help, concept learning, standard-
+---
+ized test preparation, discussion and collaboration, and mental health support. Some
+---
+of the most popular AI-based tools /chatbots used in education are:
+---
+•	 Bard, introduced in 2022, is a large language model chatbot created by Google
+---
+AI. Its capabilities include generating text, language translation, producing vari-
+---
+ous types of creative content, and providing informative responses to questions.
+---
+(Rudolph et al., 2023). Bard is still under development, but it has the potential to
+---
+•	 ChatGPT, launched in 2022 by OpenAI, is a large language model chatbot that can
+---
+generate text, produce diverse creative content, and deliver informative answers to
+---
+questions (Dergaa et al., 2023; Khademi, 2023; Rudolph et al., 2023). However, as
+---
+discussed in the results section of this paper, there are numerous concerns related
+---
+to the use of ChatGPT in education, such as accuracy, reliability, ethical issues,
+---
+•	 Ada, launched in 2017, is a chatbot that is used to provide personalized tutoring to
+---
+students. It can answer questions, provide feedback, and facilitate individualized
+---
+learning for students (Kabiljo et al., 2020; Konecki et al., 2023). However, the Ada
+---
+chatbot has limitations in understanding complex queries. It could misinterpret
+---
+•	 Replika, launched in 2017, is an AI chatbot platform that is designed to be a friend
+---
+and companion for students. It can listen to students’ problems, offer advice, and
+---
+help them feel less alone (Pentina et  al., 2023; Xie & Pentina, 2022). However,
+---
+given the personal nature of conversations with Replika, there are valid concerns
+---
+•	 Socratic, launched in 2013, had the goal of creating a community that made learn-
+---
+ing accessible to all students. Currently, Socratic is an AI-powered educational
+---
+platform that was acquired by Google in 2018. While not a chatbot per se, it has a
+---
+chatbot-like interface and functionality designed to assist students in learning new
+---
+concepts (Alsanousi et al., 2023; Moppel, 2018; St-Hilaire et al., 2022). Like with
+---
+other chatbots, a concern arises where students might excessively rely on Socratic
+---
+for learning. This could lead to a diminished emphasis on critical thinking, as stu-
+---
+dents may opt to use the platform to obtain answers without gaining a genuine
+---
+understanding of the underlying concepts.
+---
+•	 Habitica, launched in 2013, is used to help students develop good study habits.
+---
+It gamifies the learning process, making it more fun and engaging for students.
+---
+Students can use Habitica to manage their academic tasks, assignments, and study
+---
+schedules. By turning their to-do list into a game-like experience, students are
+---
+motivated to complete their tasks and build productive habits (Sales & Antunes,
+---
+2021; Zhang, 2023). However, the gamified nature of Habitica could inadvertently
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+introduce distractions, especially for students who are easily drawn into the gam-
+---
+ing aspect rather than focusing on their actual academic responsibilities.
+---
+•	 Piazza launched in 2009, is used to facilitate discussion and collaboration in educa-
+---
+tional settings, particularly in classrooms and academic institutions. It provides a
+---
+space for students and instructors to engage in discussions, ask questions, and share
+---
+information related to course content and assignments (Ruthotto et al., 2020; Wang
+---
+et al., 2020). Because discussions on Piazza are user-generated, the quality and accu-
+---
+racy of responses can vary. This variability may result in situations where students do
+---
+not receive accurate and helpful information.
+---
+We will likely see even more widespread adoption of chatbots in education in the years
+---
+to come as technology advances further. Chatbots have enormous potential to improve
+---
+teaching and learning. A large body of literature is devoted to exploring the role, chal-
+---
+lenges, and opportunities of chatbots in education. This paper gathers and synthesizes
+---
+this vast amount of literature, providing a comprehensive understanding of the current
+---
+research status concerning the influence of chatbots in education. By conducting a sys-
+---
+tematic review, we seek to identify common themes, trends, and patterns in the impact
+---
+of chatbots on education and provide a holistic view of the research, enabling research-
+---
+ers, policymakers, and educators to make evidence-based decisions. One of the main
+---
+objectives of this paper is to identify existing research gaps in the literature to pinpoint
+---
+areas where further investigation is needed, enabling researchers to contribute to the
+---
+knowledge base and guide future research efforts. Firstly, we aim to understand the pri-
+---
+mary advantages of incorporating AI chatbots in education, focusing on the perspectives
+---
+of students. Secondly, we seek to explore the key advantages of integrating AI chatbots
+---
+from the standpoint of educators. Lastly, we endeavor to comprehensively analyze the
+---
+major concerns expressed by scholars regarding the integration of AI chatbots in educa-
+---
+tional settings. Corresponding research questions are formulated in the section below.
+---
+Addressing these research questions, we aim to contribute valuable insights that shed
+---
+light on the potential benefits and challenges associated with the utilization of AI chat-
+---
+The paper follows a structured outline comprising several sections. Initially, we pro-
+---
+vide a summary of existing literature reviews. Subsequently, we delve into the method-
+---
+ology, encompassing aspects such as research questions, the search process, inclusion
+---
+and exclusion criteria, as well as the data extraction strategy. Moving on, we present a
+---
+comprehensive analysis of the results in the subsequent section. Finally, we conclude
+---
+by addressing the limitations encountered during the study and offering insights into
+---
+Drawing from extensive systematic literature reviews, as summarized in Table  1, AI
+---
+chatbots possess the potential to profoundly influence diverse aspects of education.
+---
+They contribute to advancements in both teaching and learning processes. However, it
+---
+is essential to address concerns regarding the irrational use of technology and the chal-
+---
+lenges that education systems encounter while striving to harness its capacity and make
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+Table 1  Systematic literature reviews on AI Chatbots in Education
+---
+A Meta-Analysis and Systematic Review of the Effect
+---
+of Chatbot Technology Use in Sustainable Education
+---
+(a) Chatbot technology demonstrated a substantial
+---
+impact on overall learning outcomes, regardless of fac-
+---
+tors such as intervention duration and learning content
+---
+(b) When it comes to specific aspects of learning, chat-
+---
+bots exhibited significant enhancements in knowledge
+---
+(c) The research revealed nonsignificant effect of
+---
+chatbots on critical thinking, learning engagement, and
+---
+Interacting with educational chatbots: A systematic
+---
+(a) Chatbots are predominantly developed on web
+---
+(b) Most chatbots stick to preplanned conversation
+---
+paths. Some of them utilize personalized learning
+---
+methods catered to individual student requirements.
+---
+Some chatbots integrate experiential and collaborative
+---
+learning, along with other design principles
+---
+(c) Developing chatbots faces challenges and limita-
+---
+tions, including a lack of adequate training datasets
+---
+Artificial Intelligence in Education: A Review (Krstić
+---
+(a) AI revolutionizes the methods of instruction
+---
+employed by educators and the approaches to knowl-
+---
+(b) The integration of AI into educational systems leads
+---
+to the advancement of teaching and learning programs
+---
+(c) AI is bringing about significant transformations in
+---
+the field of education, while recognizing that it won’t
+---
+entirely supplant the conventional education system
+---
+Chatbots applications in education: A systematic
+---
+a) Chatbots are used in education for teaching, adminis-
+---
+tration, assessment, advisory, and research
+---
+b) Chatbots have the potential to enhance learning
+---
+outcomes through immediate assistance, quick access
+---
+to information, and increased student motivation
+---
+c) Implementing Chatbot technology in education
+---
+faces challenges like ethics, evaluation methods, user
+---
+attitudes, programming complexities, and data integra-
+---
+Are we there yet?-a systematic literature review on
+---
+chatbots in education (Wollny et al., 2021)
+---
+(a) Chatbots possess the capacity to serve as a valuable
+---
+educational tool, capable of enhancing student learning
+---
+outcomes across various domains such as knowledge
+---
+acquisition, problem-solving skills, self-regulation, and
+---
+(b) In the realm of education, chatbots have been
+---
+employed for diverse purposes, including the dissemi-
+---
+nation of information, responding to inquiries, offering
+---
+feedback, providing tutoring support, gamifying the
+---
+learning experience, and facilitating social interaction
+---
+(c) Incorporating chatbots into education comes with
+---
+challenges that need to be addressed, including the
+---
+development of high-quality chatbot systems, the
+---
+establishment of effective evaluation methods, and the
+---
+resolution of ethical concerns associated with their use
+---
+(a) AI presents extensive opportunities in education for
+---
+teachers and students to harness and attain its neces-
+---
+(b) AI is already being implemented in education and
+---
+various other sectors in developed nations
+---
+(c)There are challenges involved in adopting AI in
+---
+education, including ethical concerns, technological
+---
+factors such as data usage and ownership, and organi-
+---
+zational considerations like the potential replacement of
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+It is evident that chatbot technology has a significant impact on overall learning out-
+---
+comes. Specifically, chatbots have demonstrated significant enhancements in learning
+---
+achievement, explicit reasoning, and knowledge retention. The integration of chatbots
+---
+in education offers benefits such as immediate assistance, quick access to information,
+---
+enhanced learning outcomes, and improved educational experiences. However, there
+---
+have been contradictory findings related to critical thinking, learning engagement,
+---
+and motivation. Deng and Yu (2023) found that chatbots had a significant and positive
+---
+influence on numerous learning-related aspects but they do not significantly improve
+---
+motivation among students. Contrary, Okonkwo and Ade-Ibijola (Okonkwo & Ade-Ibi-
+---
+jola, 2021), as well as (Wollny et al., 2021) find that using chatbots increases students’
+---
+In terms of application, chatbots are primarily used in education to teach various sub-
+---
+jects, including but not limited to mathematics, computer science, foreign languages,
+---
+and engineering. While many chatbots follow predetermined conversational paths,
+---
+some employ personalized learning approaches tailored to individual student needs,
+---
+incorporating experiential and collaborative learning principles. Challenges in chatbot
+---
+development include insufficient training datasets, a lack of emphasis on usability heu-
+---
+ristics, ethical concerns, evaluation methods, user attitudes, programming complexities,
+---
+Although existing systematic reviews have provided valuable insights into the impact
+---
+of chatbot technology in education, it’s essential to acknowledge that the field of chatbot
+---
+development is continually emerging and requires timely, and updated analysis to ensure
+---
+that the information and assessments reflect the most recent advancements, trends,
+---
+or developments in chatbot technology. The latest chatbot models have showcased
+---
+Artificial Intelligence in Education: A Review (Chen
+---
+(a) AI Chatbots fulfill instructors’ duties and responsibili-
+---
+(b) AI Chatbots enhance the effectiveness and efficiency
+---
+of teachers, leading to a higher quality of instruction
+---
+(c) AI Chatbots offer students enhanced learning experi-
+---
+ences, contributing to improved educational outcomes
+---
+Rediscovering the use of chatbots in education: A
+---
+(a) Chatbots are increasingly used in education for
+---
+personalized tutoring, homework help, concept learn-
+---
+ing, test preparation, collaboration, and mental health
+---
+(b) Incorporating chatbots in education benefits student
+---
+engagement, learning outcomes, and stress reduction
+---
+c) Challenges in implementing chatbots in education
+---
+include the need for accurate information, potential
+---
+Artificial intelligence in higher education: the state of
+---
+(a) AI has the potential to make education more acces-
+---
+(b) AI is being used to personalize learning, provide sup-
+---
+port to students, and automate administrative tasks. AI
+---
+is also being used to improve research and create new
+---
+(c) Challenges associated with AI in education include
+---
+the need for data privacy and security, the potential for
+---
+bias, and the need for educators to be trained in how to
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+remarkable capabilities in natural language processing and generation. Additional
+---
+research is required to investigate the role and potential of these newer chatbots in the
+---
+field of education. Therefore, our paper focuses on reviewing and discussing the findings
+---
+of these new-generation chatbots’ use in education, including their benefits and chal-
+---
+lenges from the perspectives of both educators and students.
+---
+There are a few aspects that appear to be missing from the existing literature reviews:
+---
+(a) The existing findings focus on the immediate impact of chatbot usage on learning
+---
+outcomes. Further research may delve into the enduring impacts of integrating chatbots
+---
+in education, aiming to assess their sustainability and the persistence of the observed
+---
+advantages over the long term. (b) The studies primarily discuss the impact of chatbots
+---
+on learning outcomes as a whole, without delving into the potential variations based on
+---
+student characteristics. Investigating how different student groups, such as age, prior
+---
+knowledge, and learning styles, interact with chatbot technology could provide valuable
+---
+insights. (c) Although the studies highlight the enhancements in certain learning compo-
+---
+nents, further investigation could explore the specific pedagogical strategies employed
+---
+by chatbots to achieve these outcomes. Understanding the underlying mechanisms and
+---
+instructional approaches utilized by chatbots can guide the development of more effec-
+---
+tive and targeted educational interventions. (d) While some studies touch upon user
+---
+attitudes and acceptance, further research can delve deeper into the user experience of
+---
+interacting with chatbots in educational settings. This includes exploring factors such
+---
+as usability, perceived usefulness, satisfaction, and preferences of students and teachers
+---
+Addressing these gaps in the existing literature would significantly benefit the field
+---
+of education. Firstly, further research on the impacts of integrating chatbots can shed
+---
+light on their long-term sustainability and how their advantages persist over time. This
+---
+knowledge is crucial for educators and policymakers to make informed decisions about
+---
+the continued integration of chatbots into educational systems. Secondly, understand-
+---
+ing how different student characteristics interact with chatbot technology can help tai-
+---
+lor educational interventions to individual needs, potentially optimizing the learning
+---
+experience. Thirdly, exploring the specific pedagogical strategies employed by chatbots
+---
+to enhance learning components can inform the development of more effective educa-
+---
+tional tools and methods. Lastly, a deeper exploration of the user experience with chat-
+---
+bots, encompassing usability, satisfaction, and preferences, can provide valuable insights
+---
+into enhancing user engagement and overall satisfaction, thus guiding the future design
+---
+and implementation of chatbot technology in education.
+---
+A systematic review follows a rigorous methodology, including predefined search cri-
+---
+teria and systematic screening processes, to ensure the inclusion of relevant studies.
+---
+This comprehensive approach ensures that a wide range of research is considered, mini-
+---
+mizing the risk of bias and providing a comprehensive overview of the impact of AI in
+---
+education. Firstly, we define the research questions and corresponding search strategies
+---
+and then we filter the search results based on predefined inclusion and exclusion crite-
+---
+ria. Secondly, we study selected articles and synthesize results and lastly, we report and
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+discuss the findings. To improve the clarity of the discussion section, we employed Large
+---
+Language Model (LLM) for stylistic suggestions.
+---
+Considering the limitations observed in previous literature reviews, we have devel-
+---
+oped three research questions for further investigation:
+---
+1.	 What are the key advantages of incorporating AI chatbots in education from the
+---
+2.	 What are the key advantages of integrating AI chatbots in education from the view-
+---
+3.	 What are the main concerns raised by scholars regarding the integration of AI chat-
+---
+Exploring the literature that focuses on these research questions, with specific
+---
+attention to contemporary AI-powered chatbots, can provide a deeper understanding
+---
+of the impact, effectiveness, and potential limitations of chatbot technology in educa-
+---
+tion while guiding its future development and implementation. This paper will help
+---
+to better understand how educational chatbots can be effectively utilized to enhance
+---
+education and address the specific needs and challenges of students and educators.
+---
+The search for the relevant literature was conducted in the following databases:
+---
+ACM Digital Library, Scopus, IEEE Xplore, and Google Scholar. The search string
+---
+was created using Boolean operators, and it was structured as follows: (“Education”
+---
+or “Learning” or “Teaching”) and (“Chatbot” or “Artificial intelligence” or “AI” or
+---
+“ChatGPT”). Initially, the search yielded a total of 563 papers from all four databases.
+---
+Search filters were applied based on predefined inclusion and exclusion criteria, fol-
+---
+lowed by a rigorous data extraction strategy as explained below.
+---
+In our review process, we carefully adhered to the inclusion and exclusion crite-
+---
+ria specified in Table 2. Criteria were determined to ensure the studies chosen are
+---
+Conference proceedings, journal articles that
+---
+are not published in Peer Reviewed Journals
+---
+Discusses at least one educational chatbot or
+---
+PhD thesis, Technical papers, tutorial, poster
+---
+Artificial Intelligence (AI), chatbots and Educa-
+---
+Neither Artificial Intelligence (AI) nor Education
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+relevant to the research question (content, timeline) and maintain a certain level of
+---
+quality (literature type) and consistency (language, subject area).
+---
+All three authors collaborated to select the articles, ensuring consistency and reliabil-
+---
+ity. Each article was reviewed by at least two co-authors. The article selection process
+---
+involved the following stages: Initially, the authors reviewed the studies’ metadata, titles,
+---
+abstracts, keywords and eliminated articles that were not relevant to research questions.
+---
+This reduced the number of studies to 139. Next, the authors evaluated the quality of the
+---
+studies by assessing research methodology, sample size, research design, and clarity of
+---
+objectives, further refining the selection to 85 articles. Finally, the authors thoroughly
+---
+read the entire content of the articles. Studies offering limited empirical evidence related
+---
+to our research questions were excluded. This final step reduced the number of papers to
+---
+67. Figure 1 presents the article selection process.
+---
+In this section, we present the results of the reviewed articles, focusing on our research
+---
+questions, particularly with regard to ChatGPT. ChatGPT, as one of the latest AI-pow-
+---
+ered chatbots, has gained significant attention for its potential applications in education.
+---
+Within just eight months of its launch in 2022, it has already amassed over 100 million
+---
+users, setting new records for user and traffic growth. ChatGPT stands out among AI-
+---
+powered chatbots used in education due to its advanced natural language processing
+---
+capabilities and sophisticated language generation, enabling more natural and human-
+---
+like conversations. It excels at capturing and retaining contextual information through-
+---
+out interactions, leading to more coherent and contextually relevant conversations.
+---
+Unlike some educational chatbots that follow predetermined paths or rely on predefined
+---
+scripts, ChatGPT is capable of engaging in open-ended dialogue and adapting to various
+---
+user inputs. Its adaptability allows it to write articles, stories, and poems, provide sum-
+---
+maries, accommodate different perspectives, and even write and debug computer code,
+---
+making it a valuable tool in educational settings (Baidoo-Anu & Owusu Ansah, 2023;
+---
+Research question 1. What are the key advantages of incorporating AI chatbots in education
+---
+The integration of chatbots and virtual assistants into educational settings has the poten-
+---
+tial to transform support services, improve accessibility, and contribute to more efficient
+---
+and effective learning environments (Chen et al., 2023; Essel et al., 2022). AI tools have the
+---
+Fig. 1  Flow diagram of selecting studies
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+potential to improve student success and engagement, particularly among those from dis-
+---
+advantaged backgrounds (Sullivan et al., 2023). However, the existing literature highlights
+---
+an important gap in the discussion from a student’s standpoint. A few existing research
+---
+studies addressing the student’s perspective of using ChatGPT in the learning process indi-
+---
+cate that students have a positive view of ChatGPT, appreciate its capabilities, and find it
+---
+helpful for their studies and work (Kasneci et al., 2023; Shoufan, 2023). Students acknowl-
+---
+edge that ChatGPT’s answers are not always accurate and emphasize the need for solid
+---
+background knowledge to utilize it effectively, recognizing that it cannot replace human
+---
+intelligence (Shoufan, 2023). Common most important benefits identified by scholars are:
+---
+•	 Homework and Study Assistance. AI-powered chatbots can provide detailed feedback
+---
+on student assignments, highlighting areas of improvement and offering suggestions for
+---
+further learning (Celik et al., 2022). For example, ChatGPT can act as a helpful study
+---
+companion, providing explanations and clarifications on various subjects. It can assist
+---
+with homework questions, offering step-by-step solutions and guiding students through
+---
+complex problems (Crawford et  al., 2023; Fauzi et  al., 2023; Lo, 2023; Qadir, 2023;
+---
+Shidiq, 2023). According to Sedaghat (2023) experiment, ChatGPT performed simi-
+---
+larly to third-year medical students on medical exams, and could write quite impressive
+---
+essays. Students can also use ChatGPT to quiz themselves on various subjects, reinforc-
+---
+ing their knowledge and preparing for exams (Choi et al., 2023; Eysenbach, 2023; Sevgi
+---
+•	 Flexible personalized learning. AI-powered chatbots in general are now able to pro-
+---
+vide individualized guidance and feedback to students, helping them navigate through
+---
+challenging concepts and improve their understanding. These systems can adapt their
+---
+teaching strategies to suit each student’s unique needs (Fariani et al., 2023; Kikalish-
+---
+vili, 2023; Schiff, 2021). Students can access ChatGPT anytime, making it convenient.
+---
+According to Kasneci et al. (2023), ChatGPT’s interactive and conversational nature can
+---
+enhance students’ engagement and motivation, making learning more enjoyable and
+---
+personalized. (Khan et al., 2023) examine the impact of ChatGPT on medical educa-
+---
+tion and clinical management, highlighting its ability to offer students tailored learning
+---
+•	 Skills development. It can aid in the enhancement of writing skills (by offering sugges-
+---
+tions for syntactic and grammatical corrections) (Kaharuddin, 2021), foster problem-
+---
+solving abilities (by providing step-by-step solutions) (Benvenuti et al., 2023), and facili-
+---
+tate group discussions and debates (by furnishing discussion structures and providing
+---
+real-time feedback) (Ruthotto et al., 2020; Wang et al., 2020).
+---
+It’s important to note that some papers raise concerns about excessive reliance on AI-
+---
+generated information, potentially leading to a negative impact on student’s critical think-
+---
+ing and problem-solving skills (Kasneci et al., 2023). For instance, if students consistently
+---
+receive solutions or information effortlessly through AI assistance, they might not engage
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+Research question 2. What are the key advantages of integrating AI chatbots in education
+---
+With the current capabilities of AI and its future potential, AI-powered chatbots, like
+---
+ChatGPT, can have a significant impact on existing instructional practices. Major
+---
+benefits from educators’ viewpoint identified in the literature are:
+---
+•	 Time-Saving Assistance. AI chatbot administrative support capabilities can help
+---
+educators save time on routine tasks, including scheduling, grading, and provid-
+---
+ing information to students, allowing them to allocate more time for instructional
+---
+planning and student engagement. For example, ChatGPT can successfully gen-
+---
+erate various types of questions and answer keys in different disciplines. How-
+---
+ever, educators should exercise critical evaluation and customization to suit their
+---
+unique teaching contexts. The expertise, experience, and comprehension of the
+---
+teacher are essential in making informed pedagogical choices, as AI is not yet
+---
+capable of replacing the role of a science teacher (Cooper, 2023).
+---
+•	 Improved pedagogy. Educators can leverage AI chatbots to augment their instruc-
+---
+tion and provide personalized support. According to Herft (2023), there are vari-
+---
+ous ways in which teachers can utilize ChatGPT to enhance their pedagogical
+---
+approaches and assessment methods. For instance, Educators can leverage the
+---
+capabilities of ChatGPT to generate open-ended question prompts that align pre-
+---
+cisely with the targeted learning objectives and success criteria of the instructional
+---
+unit. By doing so, teachers can tailor educational content to cater to the distinct
+---
+needs, interests, and learning preferences of each student, offering personalized
+---
+learning materials and activities (Al Ka’bi, 2023; Fariani et al., 2023).
+---
+Research question 3. What are the main concerns raised by scholars regarding the integration
+---
+Scholars’ opinions on using AI in this regard are varied and diverse. Some see AI chat-
+---
+bots as the future of teaching and learning, while others perceive them as a potential
+---
+threat. The main arguments of skeptical scholars are threefold:
+---
+•	 Reliability and Accuracy. AI chatbots may provide biased responses or non-accu-
+---
+rate information (Kasneci et al., 2023; Sedaghat, 2023). If the chatbot provides
+---
+incorrect information or guidance, it could mislead students and hinder their
+---
+learning progress. According to Sevgi et al. (2023), although ChatGPT exhibited
+---
+captivating and thought-provoking answers, it should not be regarded as a relia-
+---
+ble information source. This point is especially important for medical education.
+---
+Within the field of medical education, it is crucial to guarantee the reliability and
+---
+accuracy of the information chatbots provide (Khan et  al., 2023). If the train-
+---
+ing data used to develop an AI chatbot contains biases, the chatbot may inad-
+---
+vertently reproduce those biases in its responses, potentially including skewed
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+perspectives, stereotypes, discriminatory language, or biased recommendations.
+---
+This is of particular concern in an educational context.
+---
+•	 Fair assessments. One of the challenges that educators face with the integration
+---
+of Chatbots in education is the difficulty in assessing students’ work, particularly
+---
+when it comes to written assignments or responses. AI-generated text detection,
+---
+while continually improving, is not yet foolproof and can produce false negatives
+---
+or positives. This creates uncertainty and can undermine the credibility of the
+---
+assessment process. Educators may struggle to discern whether the responses are
+---
+genuinely student-generated or if they have been provided by an AI, affecting the
+---
+accuracy of grading and feedback. This raises concerns about academic integrity
+---
+and fair assessment practices (AlAfnan et al., 2023; Kung et al., 2023).
+---
+•	 Ethical issues. The integration of AI chatbots in education raises several ethical
+---
+implications, particularly concerning data privacy, security, and responsible AI
+---
+use. As AI chatbots interact with students and gather data during conversations,
+---
+necessitating the establishment of clear guidelines and safeguards. For example,
+---
+medical education frequently encompasses the acquisition of knowledge pertain-
+---
+ing to delicate and intimate subjects, including patient confidentiality and ethical
+---
+considerations within the medical field and thus ethical and proper utilization of
+---
+chatbots holds significant importance (Masters, 2023; Miao & Ahn, 2023; Seda-
+---
+For these and other geopolitical reasons, ChatGPT is banned in countries with
+---
+strict internet censorship policies, like North Korea, Iran, Syria, Russia, and China.
+---
+Several nations prohibited the usage of the application due to privacy apprehen-
+---
+sions. Meanwhile, North Korea, China, and Russia, in particular, contended that the
+---
+U.S. might employ ChatGPT for disseminating misinformation. Conversely, OpenAI
+---
+restricts access to ChatGPT in certain countries, such as Afghanistan and Iran, cit-
+---
+ing geopolitical constraints, legal considerations, data protection regulations, and
+---
+internet accessibility as the basis for this decision. Italy became the first Western
+---
+country to ban ChatGPT (Browne, 2023) after the country’s data protection author-
+---
+ity called on OpenAI to stop processing Italian residents’ data. They claimed that
+---
+ChatGPT did not comply with the European General Data Protection Regulation.
+---
+However, after OpenAI clarified the data privacy issues with Italian data protection
+---
+authority, ChatGPT returned to Italy. To avoid cheating on school homework and
+---
+assignments, ChatGPT was also blocked in all New York school devices and net-
+---
+works so that students and teachers could no longer access it (Elsen-Rooney, 2023;
+---
+Li et al., 2023). These examples highlight the lack of readiness to embrace recently
+---
+developed AI tools. There are numerous concerns that must be addressed in order
+---
+to gain broader acceptance and understanding.
+---
+To summarize, incorporating AI chatbots in education brings personalized learn-
+---
+ing for students and time efficiency for educators. Students benefit from flexible
+---
+study aid and skill development. However, concerns arise regarding the accuracy of
+---
+information, fair assessment practices, and ethical considerations. Striking a bal-
+---
+ance between these advantages and concerns is crucial for responsible integration in
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+The integration of artificial intelligence (AI) chatbots in education has the potential to
+---
+revolutionize how students learn and interact with information. One significant advan-
+---
+tage of AI chatbots in education is their ability to provide personalized and engaging
+---
+learning experiences. By tailoring their interactions to individual students’ needs and
+---
+preferences, chatbots offer customized feedback and instructional support, ultimately
+---
+enhancing student engagement and information retention. However, there are potential
+---
+difficulties in fully replicating the human educator experience with chatbots. While they
+---
+can provide customized instruction, chatbots may not match human instructors’ emo-
+---
+tional support and mentorship. Understanding the importance of human engagement
+---
+and expertise in education is crucial. A teacher’s role encompasses more than just shar-
+---
+ing knowledge. They offer students guidance, motivation, and emotional support—ele-
+---
+ments that AI cannot completely replicate.
+---
+We find that AI chatbots may benefit students as well as educators in various ways,
+---
+however, there are significant concerns that need to be addressed in order to harness its
+---
+capabilities effectively. Specifically, educational institutions should implement preventa-
+---
+tive measures. This includes (a) creating awareness among students, focusing on top-
+---
+ics such as digital inequality, the reliability and accuracy of AI chatbots, and associated
+---
+ethical considerations; and (b) offering regular professional development training for
+---
+educators. This training should initially focus on enabling educators to integrate diverse
+---
+in-class activities and assignments into the curriculum, aimed at nurturing students’
+---
+critical thinking and problem-solving skills while ensuring fair performance evaluation.
+---
+Additionally, this training should cover educating educators about the capabilities and
+---
+potential educational uses of AI chatbots, along with providing them with best practices
+---
+for effectively integrating these tools into their teaching methods.
+---
+As technology continues to advance, AI-powered educational chatbots are expected
+---
+to become more sophisticated, providing accurate information and offering even more
+---
+individualized and engaging learning experiences. They are anticipated to engage with
+---
+humans using voice recognition, comprehend human emotions, and navigate social
+---
+interactions. Consequently, their potential impact on future education is substantial.
+---
+This includes activities such as establishing educational objectives, developing teach-
+---
+ing methods and curricula, and conducting assessments (Latif et al., 2023). Considering
+---
+Microsoft’s extensive integration efforts of ChatGPT into its products (Rudolph et al.,
+---
+2023; Warren, 2023), it is likely that ChatGPT will become widespread soon. Educational
+---
+institutions may need to rapidly adapt their policies and practices to guide and support
+---
+students in using educational chatbots safely and constructively manner (Baidoo-Anu &
+---
+Owusu Ansah, 2023). Educators and researchers must continue to explore the potential
+---
+benefits and limitations of this technology to fully realize its potential.
+---
+The widespread adoption of chatbots and their increasing accessibility has sparked con-
+---
+trasting reactions across different sectors, leading to considerable confusion in the field
+---
+of education. Among educators and learners, there is a notable trend—while learners
+---
+are excited about chatbot integration, educators’ perceptions are particularly critical.
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+However, this situation presents a unique opportunity, accompanied by unprecedented
+---
+challenges. Consequently, it has prompted a significant surge in research, aiming to
+---
+explore the impact of chatbots on education.
+---
+In this article, we present a systematic review of the latest literature with the objective
+---
+of identifying the potential advantages and challenges associated with integrating chat-
+---
+bots in education. Through this review, we have been able to highlight critical gaps in the
+---
+existing research that warrant further in-depth investigation. Addressing these gaps will
+---
+be instrumental in optimizing the implementation of chatbots and harnessing their full
+---
+potential in the educational landscape, thereby benefiting both educators and students
+---
+alike. Further research will play a vital role in comprehending the long-term impact, var-
+---
+iations based on student characteristics, pedagogical strategies, and the user experience
+---
+associated with integrating chatbots in education.
+---
+From the viewpoint of educators, integrating AI chatbots in education brings sig-
+---
+nificant advantages. AI chatbots provide time-saving assistance by handling routine
+---
+administrative tasks such as scheduling, grading, and providing information to stu-
+---
+dents, allowing educators to focus more on instructional planning and student engage-
+---
+ment. Educators can improve their pedagogy by leveraging AI chatbots to augment their
+---
+instruction and offer personalized support to students. By customizing educational
+---
+content and generating prompts for open-ended questions aligned with specific learn-
+---
+ing objectives, teachers can cater to individual student needs and enhance the learning
+---
+experience. Additionally, educators can use AI chatbots to create tailored learning mate-
+---
+rials and activities to accommodate students’ unique interests and learning styles.
+---
+Incorporating AI chatbots in education offers several key advantages from students’
+---
+perspectives. AI-powered chatbots provide valuable homework and study assistance
+---
+by offering detailed feedback on assignments, guiding students through complex prob-
+---
+lems, and providing step-by-step solutions. They also act as study companions, offering
+---
+explanations and clarifications on various subjects. They can be used for self-quizzing
+---
+to reinforce knowledge and prepare for exams. Furthermore, these chatbots facilitate
+---
+flexible personalized learning, tailoring their teaching strategies to suit each student’s
+---
+unique needs. Their interactive and conversational nature enhances student engagement
+---
+and motivation, making learning more enjoyable and personalized. Also, AI chatbots
+---
+contribute to skills development by suggesting syntactic and grammatical corrections
+---
+to enhance writing skills, providing problem-solving guidance, and facilitating group
+---
+discussions and debates with real-time feedback. Overall, students appreciate the capa-
+---
+bilities of AI chatbots and find them helpful for their studies and skill development, rec-
+---
+ognizing that they complement human intelligence rather than replace it.
+---
+The presence of AI chatbots also brought lots of skepticism among scholars. While
+---
+some see transformative potential, concerns loom over reliability, accuracy, fair assess-
+---
+ments, and ethical dilemmas. The fear of misinformation compromised academic
+---
+integrity, and data privacy issues cast an eerie shadow over the implementation of AI
+---
+chatbots. Based on the findings of the reviewed papers, it is commonly concluded that
+---
+addressing some of the challenges related to the use of AI chatbots in education can
+---
+be accomplished by introducing preventative measures. More specifically, educational
+---
+institutions must prioritize creating awareness among students about the risks associ-
+---
+ated with AI chatbots, focusing on essential aspects like digital inequality and ethical
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+considerations. Simultaneously, investing in the continuous development of educators
+---
+through targeted training is key. Empowering educators to effectively integrate AI chat-
+---
+bots into their teaching methods, fostering critical thinking and fair evaluation, will pave
+---
+the way for a more effective and engaging educational experience.
+---
+The implications of the research findings for policymakers and researchers are exten-
+---
+sive, shaping the future integration of chatbots in education. The findings emphasize
+---
+the need to establish guidelines and regulations ensuring the ethical development and
+---
+deployment of AI chatbots in education. Policies should specifically focus on data pri-
+---
+vacy, accuracy, and transparency to mitigate potential risks and build trust within the
+---
+educational community. Additionally, investing in research and development to enhance
+---
+AI chatbot capabilities and address identified concerns is crucial for a seamless integra-
+---
+tion into educational systems. Researchers are strongly encouraged to fill the identified
+---
+research gaps through rigorous studies that delve deeper into the impact of chatbots on
+---
+education. Exploring the long-term effects, optimal integration strategies, and address-
+---
+ing ethical considerations should take the forefront in research initiatives.
+---
+LL provided a concise overview of the existing literature and formulated the methodology. MG initiated the initial search
+---
+process. LM authored the discussion section. All three authors collaborated on the selection of the final paper collection
+---
+and contributed to crafting the conclusion. The final version of the paper received approval from all authors.
+---
+The authors declare that this research paper did not receive any funding from external organizations. The study was
+---
+conducted independently and without financial support from any source. The authors have no financial interests or affili-
+---
+ations that could have influenced the design, execution, analysis, or reporting of the research.
+---
+The data and materials used in this paper are available upon request. The comprehensive list of included studies, along
+---
+with relevant data extracted from these studies, is available from the corresponding author upon request.
+---
+Authors have no competing interests to declare.
+---
+Received: 22 August 2023   Accepted: 18 October 2023
+---
+Al Ka’bi, A. (2023). Proposed artificial intelligence algorithm and deep learning techniques for development of higher
+---
+education. International Journal of Intelligent Networks, 4, 68–73.
+---
+AlAfnan, M. A., Dishari, S., Jovic, M., & Lomidze, K. (2023). Chatgpt as an educational tool: Opportunities, challenges, and
+---
+recommendations for communication, business writing, and composition courses. Journal of Artificial Intelligence
+---
+Alsanousi, B., Albesher, A. S., Do, H., & Ludi, S. (2023). Investigating the user experience and evaluating usability issues in
+---
+ai-enabled learning mobile apps: An analysis of user reviews. International Journal of Advanced Computer Science and
+---
+AlZubi, S., Mughaid, A., Quiam, F., & Hendawi, S. (2022). Exploring the Capabilities and Limitations of ChatGPT and Alterna-
+---
+tive Big Language Models. Artificial Intelligence and Applications.
+---
+Aron, J. (2011). How innovative is Apple’s new voice assistant. Siri, NewScientist, 212(2836), 24
+---
+Baidoo-Anu, D., & Owusu Ansah, L. (2023). Education in the era of generative artificial intelligence (AI): Understanding the
+---
+potential benefits of ChatGPT in promoting teaching and learning. Available at SSRN 4337484.
+---
+Benvenuti, M., Cangelosi, A., Weinberger, A., Mazzoni, E., Benassi, M., Barbaresi, M., & Orsoni, M. (2023). Artificial intel-
+---
+ligence and human behavioral development: A perspective on new skills and competencies acquisition for the
+---
+educational context. Computers in Human Behavior, 148, 107903.
+---
+Browne, R. (2023). Italy became the first Western country to ban ChatGPT. Here’s what other countries are doing. CNBC (Apr. 4,
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+Celik, I., Dindar, M., Muukkonen, H., & Järvelä, S. (2022). The promises and challenges of artificial intelligence for teachers:
+---
+A systematic review of research. TechTrends, 66(4), 616–630.
+---
+Chassignol, M., Khoroshavin, A., Klimova, A., & Bilyatdinova, A. (2018). Artificial Intelligence trends in education: A narrative
+---
+overview. Procedia Computer Science, 136, 16–24.
+---
+Chen, L., Chen, P., & Lin, Z. (2020). Artificial intelligence in education: A review. IEEE Access, 8, 75264–75278.
+---
+Chen, Y., Jensen, S., Albert, L. J., Gupta, S., & Lee, T. (2023). Artificial intelligence (AI) student assistants in the classroom:
+---
+Designing chatbots to support student success. Information Systems Frontiers, 25(1), 161–182.
+---
+Choi, J. H., Hickman, K. E., Monahan, A., & Schwarcz, D. (2023). Chatgpt goes to law school. Available at SSRN.
+---
+Colby, K. M. (1981). PARRYing. Behavioral and Brain Sciences, 4(4), 550–560.
+---
+Cooper, G. (2023). Examining science education in chatgpt: An exploratory study of generative artificial intelligence.
+---
+Journal of Science Education and Technology, 32(3), 444–452.
+---
+Crawford, J., Cowling, M., & Allen, K.-A. (2023). Leadership is needed for ethical ChatGPT: Character, assessment, and learn-
+---
+ing using artificial intelligence (AI). Journal of University Teaching and Learning Practice, 20(3), 02.
+---
+Crompton, H., & Burke, D. (2023). Artificial intelligence in higher education: The state of the field. International Journal of
+---
+Educational Technology in Higher Education, 20(1), 1–22.
+---
+Deng, X., & Yu, Z. (2023). A meta-analysis and systematic review of the effect of chatbot technology use in sustainable
+---
+Dergaa, I., Chamari, K., Zmijewski, P., & Saad, H. B. (2023). From human writing to artificial intelligence generated text:
+---
+Examining the prospects and potential threats of ChatGPT in academic writing. Biology of Sport, 40(2), 615–622.
+---
+Devedzic, V. (2004). Web intelligence and artificial intelligence in education. Journal of Educational Technology and Society,
+---
+Dinh, T. N., & Thai, M. T. (2018). AI and blockchain: A disruptive integration. Computer, 51(9), 48–53.
+---
+Elsen-Rooney, M. (2023). NYC education department blocks ChatGPT on school devices, networks. Retrieved Jan, 25, 2023.
+---
+Essel, H. B., Vlachopoulos, D., Tachie-Menson, A., Johnson, E. E., & Baah, P. K. (2022). The impact of a virtual teaching assis-
+---
+tant (chatbot) on students’ learning in Ghanaian higher education. International Journal of Educational Technology in
+---
+Eysenbach, G. (2023). The role of ChatGPT, generative language models, and artificial intelligence in medical education: A
+---
+conversation with ChatGPT and a call for papers. JMIR Medical Education, 9(1), e46885.
+---
+Fariani, R. I., Junus, K., & Santoso, H. B. (2023). A systematic literature review on personalised learning in the higher educa-
+---
+tion context. Technology, Knowledge and Learning, 28(2), 449–476.
+---
+Fauzi, F., Tuhuteru, L., Sampe, F., Ausat, A. M. A., & Hatta, H. R. (2023). Analysing the role of ChatGPT in improving student
+---
+productivity in higher education. Journal on Education, 5(4), 14886–14891.
+---
+Herft, A. (2023). A Teacher’s Prompt Guide to ChatGPT aligned with’What Works Best’.
+---
+Hoffer, R., Kay, T., Levitan, P., & Klein, S. (2001). Smarterchild. ActiveBuddy.
+---
+Holotescu, C. (2016). MOOCBuddy: A Chatbot for personalized learning with MOOCs. RoCHI, 91–94.
+---
+Kabiljo, M., Vidas-Bubanja, M., Matic, R., & Zivkovic, M. (2020). Education system in the republic of serbia under COVID-
+---
+19 conditions: Chatbot-acadimic digital assistant of the belgrade business and arts academy of applied studies.
+---
+Knowledge-International Journal, 43(1), 25–30.
+---
+Kaharuddin, A. (2021). Assessing the effect of using artificial intelligence on the writing skill of Indonesian learners of
+---
+English. Linguistics and Culture Review, 5(1), 288.
+---
+Kahraman, H. T., Sagiroglu, S., & Colak, I. (2010). Development of adaptive and intelligent web-based educational systems.
+---
+In 2010 4th International Conference on Application of Information and Communication Technologies, 1–5.
+---
+Kasneci, E., Seßler, K., Küchemann, S., Bannert, M., Dementieva, D., Fischer, F., Gasser, U., Groh, G., Günnemann, S., & Hül-
+---
+lermeier, E. (2023). ChatGPT for good? On opportunities and challenges of large language models for education.
+---
+Learning and Individual Differences, 103, 102274.
+---
+Khademi, A. (2023). Can ChatGPT and bard generate aligned assessment items? A reliability analysis against human
+---
+performance. ArXiv Preprint ArXiv:2304.05372.
+---
+Khan, R. A., Jawaid, M., Khan, A. R., & Sajjad, M. (2023). ChatGPT-Reshaping medical education and clinical management.
+---
+Pakistan Journal of Medical Sciences, 39(2), 605.
+---
+Kietzmann, J., Paschen, J., & Treen, E. (2018). Artificial intelligence in advertising: How marketers can leverage artificial
+---
+intelligence along the consumer journey. Journal of Advertising Research, 58(3), 263–267.
+---
+Kikalishvili, S. (2023). Unlocking the potential of GPT-3 in education: Opportunities, limitations, and recommendations for
+---
+effective integration. Interactive Learning Environments, 1–13.
+---
+Konecki, M., Konecki, M., & Biškupić, I. (2023). Using artificial intelligence in higher education. In Proceedings of the 15th
+---
+International Conference on Computer Supported Education.
+---
+Krstić, L., Aleksić, V., & Krstić, M. (2022). Artificial intelligence in education: A review.
+---
+Kuhail, M. A., Alturki, N., Alramlawi, S., & Alhejori, K. (2023). Interacting with educational chatbots: A systematic review.
+---
+Education and Information Technologies, 28(1), 973–1018.
+---
+Kung, T. H., Cheatham, M., Medenilla, A., Sillos, C., De Leon, L., Elepaño, C., et al. (2023). Performance of ChatGPT on
+---
+USMLE: Potential for AI-assisted medical education using large language models. PLoS Digital Health, 2(2), e0000198.
+---
+Lally, A., & Fodor, P. (2011). Natural language processing with prolog in the ibm watson system. The Association for Logic
+---
+Latif, E., Mai, G., Nyaaba, M., Wu, X., Liu, N., Lu, G., ... & Zhai, X. (2023). Artificial general intelligence (AGI) for education. arXiv
+---
+Li, L., Ma, Z., Fan, L., Lee, S., Yu, H., & Hemphill, L. (2023). ChatGPT in education: A discourse analysis of worries and con-
+---
+cerns on social media. ArXiv Preprint ArXiv:2305.02201.
+---
+Lo, C. K. (2023). What is the impact of ChatGPT on education? A rapid review of the literature. Education Sciences, 13(4),
+---
+Masters, K. (2023). Ethical use of artificial intelligence in health professions education: AMEE Guide No. 158. Medical
+---
+Labadze et al. Int J Educ Technol High Educ  (2023) 20:56
+---
+Miao, H., & Ahn, H. (2023). Impact of ChatGPT on interdisciplinary nursing education and research. Asian/pacific Island
+---
+Moppel, J. (2018). Socratic chatbot. University Of Tartu, Institute of Computer Science, Bachelor’s Thesis.
+---
+Okonkwo, C. W., & Ade-Ibijola, A. (2021). Chatbots applications in education: A systematic review. Computers and Educa-
+---
+tion: Artificial Intelligence, 2, 100033.
+---
+Pentina, I., Hancock, T., & Xie, T. (2023). Exploring relationship development with social chatbots: A mixed-method study
+---
+of replika. Computers in Human Behavior, 140, 107600.
+---
+Peredo, R., Canales, A., Menchaca, A., & Peredo, I. (2011). Intelligent Web-based education system for adaptive learning.
+---
+Expert Systems with Applications, 38(12), 14690–14702.
+---
+Pérez, J. Q., Daradoumis, T., & Puig, J. M. M. (2020). Rediscovering the use of chatbots in education: A systematic literature
+---
+review. Computer Applications in Engineering Education, 28(6), 1549–1565.
+---
+Qadir, J. (2023). Engineering education in the era of ChatGPT: Promise and pitfalls of generative AI for education. IEEE
+---
+Global Engineering Education Conference (EDUCON), 2023, 1–9.
+---
+Rahaman, M. S., Ahsan, M. M., Anjum, N., Rahman, M. M., & Rahman, M. N. (2023). The AI race is on! Google’s Bard and
+---
+OpenAI’s ChatGPT head to head: An opinion article. Mizanur and Rahman, Md Nafizur, The AI Race Is On.
+---
+Rudolph, J., Tan, S., & Tan, S. (2023). War of the chatbots: Bard, Bing Chat, ChatGPT, Ernie and beyond. The new AI gold
+---
+rush and its impact on higher education. Journal of Applied Learning and Teaching, 6(1).
+---
+Ruthotto, I., Kreth, Q., Stevens, J., Trively, C., & Melkers, J. (2020). Lurking and participation in the virtual classroom: The
+---
+effects of gender, race, and age among graduate students in computer science. Computers & Education, 151, 103854.
+---
+de Sales, A. B., & Antunes, J. G. (2021). Evaluation of educational games usage satisfaction. 2021 16th Iberian Conference on
+---
+Information Systems and Technologies (CISTI), 1–6.
+---
+Schiff, D. (2021). Out of the laboratory and into the classroom: the future of artificial intelligence in education. AI & Society,
+---
+Sedaghat, S. (2023). Success through simplicity: What other artificial intelligence applications in medicine should learn
+---
+from history and ChatGPT. Annals of Biomedical Engineering, 1–2.
+---
+Sevgi, U. T., Erol, G., Doğruel, Y., Sönmez, O. F., Tubbs, R. S., & Güngor, A. (2023). The role of an open artificial intelligence
+---
+platform in modern neurosurgical education: A preliminary study. Neurosurgical Review, 46(1), 86.
+---
+Shidiq, M. (2023). The use of artificial intelligence-based chat-gpt and its challenges for the world of education; from the
+---
+viewpoint of the development of creative writing skills. Proceeding of International Conference on Education, Society
+---
+Shoufan, A. (2023). Exploring Students’ Perceptions of CHATGPT: Thematic Analysis and Follow-Up Survey. IEEE Access.
+---
+St-Hilaire, F., Vu, D. D., Frau, A., Burns, N., Faraji, F., Potochny, J., Robert, S., Roussel, A., Zheng, S., & Glazier, T. (2022). A new
+---
+era: Intelligent tutoring systems will transform online learning for millions. ArXiv Preprint ArXiv:2203.03724.
+---
+Sullivan, M., Kelly, A., & McLaughlan, P. (2023). ChatGPT in higher education: Considerations for academic integrity and
+---
+Tahiru, F. (2021). AI in education: A systematic literature review. Journal of Cases on Information Technology (JCIT), 23(1),
+---
+Tate, T., Doroudi, S., Ritchie, D., & Xu, Y. (2023). Educational research and AI-generated writing: Confronting the coming
+---
+Thurzo, A., Strunga, M., Urban, R., Surovková, J., & Afrashtehfar, K. I. (2023). Impact of artificial intelligence on dental educa-
+---
+tion: A review and guide for curriculum update. Education Sciences, 13(2), 150.
+---
+Wallace, R. (1995). Artificial linguistic internet computer entity (alice). City.
+---
+Wang, Q., Jing, S., Camacho, I., Joyner, D., & Goel, A. (2020). Jill Watson SA: Design and evaluation of a virtual agent to build
+---
+communities among online learners. Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing
+---
+Warren, T. (2023). Microsoft is looking at OpenAI’s GPT for Word, Outlook, and PowerPoint. The Verge.
+---
+Weizenbaum, J. (1966). ELIZA—A computer program for the study of natural language communication between man
+---
+and machine. Communications of the ACM, 9(1), 36–45.
+---
+Williams, C. (2023). Hype, or the future of learning and teaching? 3 Limits to AI’s ability to write student essays.
+---
+Wollny, S., Schneider, J., Di Mitri, D., Weidlich, J., Rittberger, M., & Drachsler, H. (2021). Are we there yet?—A systematic
+---
+literature review on chatbots in education. Frontiers in Artificial Intelligence, 4, 654924.
+---
+Xie, T., & Pentina, I. (2022). Attachment theory as a framework to understand relationships with social chatbots: A case study of
+---
+Zhang, Q. (2023). Investigating the effects of gamification and ludicization on learning achievement and motivation: An
+---
+empirical study employing Kahoot! and Habitica. International Journal of Technology-Enhanced Education (IJTEE), 2(1),
+---
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
