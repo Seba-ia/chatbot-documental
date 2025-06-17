@@ -27,4 +27,16 @@ Consiste en la construcción de un chatbot que responde preguntas basadas en el 
 ---
 
 ## 📁 Estructura del proyecto
-hey
+chatbot-documental/
+├── data/
+│ ├── pdf/
+│ ├── texto_extraido.txt
+│ ├── fragments.txt
+│ └── vectors/
+│ ├── embeddings.npy
+│ └── fragments.txt
+├── src/
+│ ├── 01_extract_text.py
+│ ├── 02_split_fragments.py
+│ └── 03_generate_vectors.py
+└── README.md
