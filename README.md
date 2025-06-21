@@ -47,4 +47,7 @@ chatbot-documental/
 │   └── chatbot.py
 ├── log_interacciones.md
 └── README.md
+
+---
+
 ##📸Evidencia de instrucciones, dificultades encontradas y capturas de pantalla en el archivo "log_interacciones"
